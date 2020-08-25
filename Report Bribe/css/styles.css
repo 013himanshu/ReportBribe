@@ -1,0 +1,47 @@
+﻿/*Color Palette Css*/
+.main-color-bg {
+    background-color: #03A9F4;
+}
+
+.main-color-txt {
+    color: #03A9F4;
+}
+
+.opt-color-bg {
+    background-color: #039BE5;
+}
+
+.opt-color-txt {
+    color: #039BE5;
+}
+
+.accent-color-bg {
+    background-color: #FFC107 !important;
+}
+
+.accent-color-txt {
+    color: #FFC107;
+}
+/*-------*/
+
+/*navbar css*/
+@media only screen and (min-width: 993px) {
+    .brand-logo {
+        margin-left: 20px;
+    }
+}
+/*-----*/
+
+/*Footer Css*/
+.page-footer {
+    background-color: #03A9F4 !important;
+}
+.footer-copyright {
+    background-color: #039BE5 !important;
+}
+/*------*/
+
+i .left {
+    margin-right: 5px;
+}
+

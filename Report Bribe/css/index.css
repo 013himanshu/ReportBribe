@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #f1f3f6 !important;
+}
+
+/*Parallax Css*/
+.parallax-container .parallax {
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/*Card css*/
+.card.small {
+    height: 150px !important;
+}
+
+/*Carousel Css*/
+.carousel carousel-slider {
+    min-height: 100% !important;
+    height: 100% !important;
+}
+
+.carousel-item {
+    height: 100% !important;
+}
+/*--------*/

@@ -7,7 +7,7 @@ This application will provide efficieant ways of public delivery system for comb
 - Visual Studio 2019
 - Microsoft SQL Server Management Studio 18
 
-# SCREENSHOTS
+# SOME SCREENSHOTS
 
 <table>
   <tr>
